@@ -32,9 +32,9 @@
     "node": ">= 10.13"
   },
   "dependencies": {
-    "buffer": "^5.2.1",
+    "buffer": "^6.0.3",
     "cuint": "^0.2.2",
-    "node-addon-api": "^3.2.1",
+    "node-addon-api": "^8.5.0",
     "xxhashjs": "^0.2.2"
   },
   "devDependencies": {
